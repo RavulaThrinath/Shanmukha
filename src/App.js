@@ -18,22 +18,20 @@ function App() {
       </div>
       <div className="container">
         <div className="content">
-          <h1 className="main-title">{`Sorry, We're down \n for maintaince`}</h1>
-          <p className="sub-title">
-            {`Our Website isn't quite ready, \n but you can still`}
-          </p>
+          <h1 className="main-title">{`Sorry, We're upgrading`}</h1>
+          <p className="sub-title">{`Still you can explore on`}</p>
           <div className="contact-details">
             <div className="contact-containetr">
               <h1>Contact Us</h1>
 
               <div className="iconss">
                 <RiPhoneFill />
-                <a href="tel:9848441473">+91-9848441473</a>
+                <a href="tel:9110331473">+91-9110331473</a>
               </div>
               <div className="iconss">
                 <RiMailOpenFill />
-                <a href="mailto:shanmukhatextiles@gmail.com">
-                  shanmukhatextiles@gmail.com
+                <a href="mailto:shanmukhatextiles73@gmail.com">
+                  shanmukhatextiles73@gmail.com
                 </a>
               </div>
             </div>
@@ -69,7 +67,7 @@ function App() {
                   <RiInstagramFill />
                 </a>
                 <a
-                  href="https://api.whatsapp.com/send?phone=+91-9848441473&text=Hello!"
+                  href="https://api.whatsapp.com/send?phone=+91-9110331473&text=Hello!"
                   target="_blank"
                   rel="noreferrer"
                 >
