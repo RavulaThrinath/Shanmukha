@@ -21,7 +21,7 @@ h1 {
 .logo img {
   display: block;
   margin: auto;
-  width: 250px;
+  width: 300px;
   padding: 20px;
 }
 .container {
@@ -102,6 +102,12 @@ h1 {
 }
 
 @media screen and (max-width: 600px) {
+  .logo img {
+    display: block;
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+  }
   .content {
     max-width: 90%;
     margin: auto;
