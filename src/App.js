@@ -18,8 +18,8 @@ function App() {
       </div>
       <div className="container">
         <div className="content">
-          <h1 className="main-title">{`Sorry, We're upgrading`}</h1>
-          <p className="sub-title">{`Still you can explore on`}</p>
+          <h1 className="main-title">{`We're upgrading`}</h1>
+          <p className="sub-title">{`You can still explore on`}</p>
           <div className="contact-details">
             <div className="contact-containetr">
               <h1>Contact Us</h1>
